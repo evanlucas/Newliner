@@ -1,5 +1,5 @@
 {
-  "name": "Newliner",
+  "name": "newliner",
   "version": "1.0.1",
   "description": "Coda 2 Plugin to ensure a newline at the EOF",
   "main": "index.js",

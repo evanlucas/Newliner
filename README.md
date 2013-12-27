@@ -11,7 +11,7 @@ So far, it has only been tested on OS X 10.9 with Xcode 5.x.  If you have any tr
 - `npm`
 
 ```
-$ npm install -g Newliner
+$ npm install -g newliner
 ```
 
 - without `npm`
