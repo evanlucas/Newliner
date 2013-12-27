@@ -1,6 +1,6 @@
 # Newliner
 
-##### Version: 1.0.1
+##### Version: 1.0.2
 
 A simple plugin for Coda 2 to ensure that every file has a newline at the end
 
