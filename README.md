@@ -1,6 +1,6 @@
 # Newliner
 
-##### Version: 1.0.0
+##### Version: 1.0.1
 
 A simple plugin for Coda 2 to ensure that every file has a newline at the end
 
@@ -8,8 +8,16 @@ So far, it has only been tested on OS X 10.9 with Xcode 5.x.  If you have any tr
 
 ## Install
 
+- `npm`
+
 ```
-$ ./install.sh
+$ npm install -g Newliner
+```
+
+- without `npm`
+
+```
+$ ./scripts/install.sh
 ```
 
 ## Notes
