@@ -80,6 +80,9 @@ static NSUserDefaults *defaults;
         return;
     }
     NSString *s = textView.string;
+    if ([s isEqualToString:@""]) {
+        return;
+    }
     NSArray *lines = [s componentsSeparatedByString:@"\n"];
     NSString *last = [s substringFromIndex:s.length-1];
     if (![last isEqualToString:@"\n"]) {
