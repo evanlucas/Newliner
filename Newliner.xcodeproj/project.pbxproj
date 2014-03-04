@@ -298,6 +298,7 @@
 				20D35EC3186DDDBF00C7BA3A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
