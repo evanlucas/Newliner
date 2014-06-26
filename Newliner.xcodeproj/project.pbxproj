@@ -21,8 +21,8 @@
 		20D35EB6186DDDBE00C7BA3A /* Newliner-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Newliner-Info.plist"; sourceTree = "<group>"; };
 		20D35EB8186DDDBE00C7BA3A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		20D35EBA186DDDBE00C7BA3A /* Newliner-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Newliner-Prefix.pch"; sourceTree = "<group>"; };
-		20D35EBB186DDDBE00C7BA3A /* Newliner.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Newliner.h; sourceTree = "<group>"; };
-		20D35EBC186DDDBE00C7BA3A /* Newliner.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Newliner.m; sourceTree = "<group>"; };
+		20D35EBB186DDDBE00C7BA3A /* Newliner.h */ = {isa = PBXFileReference; indentWidth = 2; lastKnownFileType = sourcecode.c.h; path = Newliner.h; sourceTree = "<group>"; tabWidth = 2; };
+		20D35EBC186DDDBE00C7BA3A /* Newliner.m */ = {isa = PBXFileReference; indentWidth = 2; lastKnownFileType = sourcecode.c.objc; path = Newliner.m; sourceTree = "<group>"; tabWidth = 2; };
 		20D35EBE186DDDBF00C7BA3A /* CodaPlugInsController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CodaPlugInsController.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 

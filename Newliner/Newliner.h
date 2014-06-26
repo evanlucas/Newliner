@@ -11,6 +11,6 @@
 
 @interface Newliner : NSObject <CodaPlugIn>
 {
-	CodaPlugInsController *controller;
+  CodaPlugInsController *controller;
 }
 @end
